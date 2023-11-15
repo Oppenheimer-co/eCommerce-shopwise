@@ -3,7 +3,7 @@
     "name": "Testimonial",
     "namespace": "Botble\\Testimonial\\",
     "provider": "Botble\\Testimonial\\Providers\\TestimonialServiceProvider",
-    "author": "Botble Technologies",
+    "author": "Saleh Al-Mashni",
     "url": "https://botble.com",
     "version": "2.1.0",
     "description": "Customer testimonials"

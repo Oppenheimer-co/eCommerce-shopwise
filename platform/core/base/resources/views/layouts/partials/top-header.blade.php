@@ -1,5 +1,5 @@
 <div class="page-header navbar navbar-static-top">
-    <div class="page-header-inner">
+    <div class="page-header-inner bg-blue-100">
         <div class="page-logo">
             @if (setting('admin_logo') || config('core.base.general.logo'))
                 <a href="{{ route('dashboard.index') }}">

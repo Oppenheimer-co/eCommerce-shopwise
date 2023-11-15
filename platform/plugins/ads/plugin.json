@@ -3,7 +3,7 @@
     "name": "Ads",
     "namespace": "Botble\\Ads\\",
     "provider": "Botble\\Ads\\Providers\\AdsServiceProvider",
-    "author": "Botble Technologies",
+    "author": "Saleh Al-Mashni",
     "url": "https://botble.com",
     "version": "1.0",
     "description": "Ads manager for Botble CMS"

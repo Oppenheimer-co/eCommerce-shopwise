@@ -38,7 +38,7 @@ class ThemeOptionSeeder extends BaseSeeder
             ],
             [
                 'key' => 'theme-' . $theme . '-copyright',
-                'value' => '© ' . now()->format('Y') . ' Botble Technologies. All Rights Reserved.',
+                'value' => '© ' . now()->format('Y') . ' Saleh Al-Mashni. All Rights Reserved.',
             ],
             [
                 'key' => 'theme-' . $theme . '-favicon',
@@ -111,7 +111,7 @@ class ThemeOptionSeeder extends BaseSeeder
             ],
             [
                 'key' => 'theme-' . $theme . '-vi-copyright',
-                'value' => '© 2021 Botble Technologies. Tất cả quyền đã được bảo hộ.',
+                'value' => '© 2021 Saleh Al-Mashni. Tất cả quyền đã được bảo hộ.',
             ],
             [
                 'key' => 'theme-' . $theme . '-vi-cookie_consent_message',

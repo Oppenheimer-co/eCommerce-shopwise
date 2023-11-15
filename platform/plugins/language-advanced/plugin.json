@@ -3,7 +3,7 @@
     "name": "Language Advanced",
     "namespace": "Botble\\LanguageAdvanced\\",
     "provider": "Botble\\LanguageAdvanced\\Providers\\LanguageAdvancedServiceProvider",
-    "author": "Botble Technologies",
+    "author": "Saleh Al-Mashni",
     "url": "https://botble.com",
     "version": "1.2.0",
     "description": "Advanced Multi-language",
