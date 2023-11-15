@@ -2,6 +2,6 @@
     "name": "Shopwise",
     "namespace": "Theme\\Shopwise\\",
     "description": "Ecommerce shopping theme",
-    "author": "Botble Technologies",
+    "author": "Saleh Al-Mashni",
     "required_plugins": []
 }

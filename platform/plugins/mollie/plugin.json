@@ -3,7 +3,7 @@
     "name": "Mollie Payment Gateway",
     "namespace": "Botble\\Mollie\\",
     "provider": "Botble\\Mollie\\Providers\\MollieServiceProvider",
-    "author": "Botble Technologies",
+    "author": "Saleh Al-Mashni",
     "url": "https://botble.com",
     "version": "1.0.0",
     "description": "Mollie payment gateway integration",
